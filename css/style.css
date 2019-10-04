@@ -24,6 +24,7 @@ nav li {
   display: inline;
   font-size: 20px;
   font-weight: bold;
+
   margin-left: 80px;
   margin-right: 80px;
 }
@@ -35,6 +36,11 @@ section {
   width: 940px;
   height: 550px;
   background: #DBD4D2;
+}
+
+hr {
+  margin-top: 30px;
+  border-color: #FFFFFF;
 }
 
 footer {
