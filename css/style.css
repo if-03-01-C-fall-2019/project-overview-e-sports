@@ -1,7 +1,8 @@
 body {
     opacity: 1;
-    background-size: 100%;
-    background-image: url("/images/background2.jpg")
+    background-size: 200%;
+    background-image: url("../images/background2.jpg")
+
 }
 
 #wrapper {
@@ -45,7 +46,6 @@ nav li {
 */
 section {
     font-size: 18px;
-    border-radius: 10px;
     width: 940px;
     height: 750px;
     padding-left: 20px;
