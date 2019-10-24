@@ -1,12 +1,15 @@
+@font-face { font-family: geile; src: url('../fonts/ModernSans-Light.otf'); }
 body {
+    font-family: geile;
     opacity: 1;
     background-size: 200%;
-    background-image: url("../images/background2.jpg")
+    background-image: url("../images/wall.jpg")
 
 }
 
 #wrapper {
     width: 940px;
+    margin-bottom: 50px;
     margin-right:auto;
     margin-left:auto;
 }
@@ -55,9 +58,4 @@ section {
 }
 section h1{
     font-size: 30px;
-}
-
-hr {
-    margin-top: 30px;
-    border-color: #FFFFFF;
 }
