@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    color: black;
+    color: white;
     font-size: 50px;
     padding-top: 30px;
     padding-bottom: 10px;
@@ -21,7 +21,7 @@ header {
 }
 
 a:link{
-    color: black;
+    color: lightgrey;
 }
 a:visited{
     color: lightgrey;
