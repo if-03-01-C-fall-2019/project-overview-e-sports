@@ -1,8 +1,9 @@
-@font-face { font-family: geile; src: url('../fonts/ModernSans-Light.otf'); }
+@font-face { font-family: ModernSans; src: url('../fonts/ModernSans-Light.otf'); }
 body {
-    font-family: geile;
+    font-family: ModernSans;
+    text-shadow: 2px 2px 5px black;
     opacity: 1;
-    background-size: 200%;
+    background-size: 300%;
     background-image: url("../images/wall.jpg")
 
 }
@@ -20,17 +21,17 @@ header {
     padding-top: 30px;
     padding-bottom: 10px;
     height: 50px;
+    text-shadow: 2px 2px 5px black;
     text-align: center;
 }
-
+/*
 a:link{
-    color: lightgrey;
+    color: white;
 }
 a:visited{
-    color: lightgrey;
+    color: white;
 }
-
-/*nav {
+nav {
     text-align: center;
 }
 
@@ -42,9 +43,6 @@ nav li {
     display: inline;
     font-size: 20px;
     font-weight: bold;
-
-    margin-left: 80px;
-    margin-right: 80px;
 }
 */
 section {
