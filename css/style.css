@@ -7,7 +7,7 @@ body {
     font-family: ModernSans;
     text-shadow: 2px 2px 5px black;
     background-repeat: no-repeat;
-    background-image: repeating-linear-gradient(#595958, #262626, #0a0707);
+    background-image: repeating-linear-gradient(#000000, #262626, #0a0707);
     line-height: 1.5;
     font-size: 120%;
     margin: 0px;
@@ -34,6 +34,11 @@ nav li {
     font-weight: bold;
     margin-right: 20px;
     margin-left: auto;
+}
+
+nav li a:hover {
+
+    color: #5b668a;
 }
 
 #info {
