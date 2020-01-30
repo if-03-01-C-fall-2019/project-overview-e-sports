@@ -1,0 +1,55 @@
+.csgoteams-parallax {
+    /* The image used */
+    background-image: url("../images/csgoteams.jpeg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.csgo-parallax {
+    /* The image used */
+    background-image: url("../images/csgo.jpeg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.lol-parallax {
+    /* The image used */
+    background-image: url("../images/lol.jpeg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/background2.jpg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.main-parallax {
+    background: radial-gradient(#000000, #ffffff);
+    background-size: 200% 200%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
